@@ -1,2 +1,4 @@
 # Convolution_Neural_Network-Project
-Classifying the Images into different "Food" categories.
+The aim of the challenge is to classify the images into 11 "Food" categories.
+
+
