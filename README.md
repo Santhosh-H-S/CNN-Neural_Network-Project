@@ -1,4 +1,4 @@
-# Convolution_Neural_Network-Project
+# Food Categories Classification
 ## The aim of the challenge is to classify the images into 11 "Food" categories.
 
 To Download dataset in your Colab Notebook             
