@@ -1,5 +1,5 @@
-# Food Categories Classification
-## The aim of the challenge is to classify the images into 11 "Food" categories.
+# Food_Classification_AI Challenge
+## The aim of the challenge is to classify the images into 11 "Food" categories. 
 
 To Download dataset in your Colab Notebook             
 copy below code and paste it in your colab cell 👇🏼👇🏼👇🏼👇🏼👇🏼    
