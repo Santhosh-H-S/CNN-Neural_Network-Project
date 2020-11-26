@@ -1,6 +1,21 @@
 # Food_Classification_AI Challenge
 ## The aim of the challenge is to classify the images into 11 "Food" categories. 
 
+The aim of the challenge is to build an image classifier that can predict "Food" categories for the given test images (1,671 test images). The dataset consists of 4931 training images with following 11 categories.
+
+# Label Description
+Bread                                 
+Dairy product                             
+Dessert                        
+Egg                            
+Fried food                       
+Meat                         
+Noodles-Pasta                             
+Rice                            
+Seafood                                 
+Soup                                       
+Vegetable-Fruit                                 
+
 To Download dataset in your Colab Notebook             
 copy below code and paste it in your colab cell 👇🏼👇🏼👇🏼👇🏼👇🏼    
 
